@@ -1,0 +1,33 @@
+
+
+html, body {
+  margin: 0;
+  min-height: 100%;
+  min-width: 100%;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+  min-height: 100vh;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.text-node { background-clip: text !important; -webkit-background-clip: text !important; }
+
+/* Rectangle */
+.rectangle-e9f8b7f6ebb4 {
+  position: absolute;
+  left: 162px;
+  top: 125px;
+  width: 60px;
+  height: 32px;
+  background: #B1B2B5;
+  border-radius: 0px;
+}
